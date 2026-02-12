@@ -1,4 +1,3 @@
-# 将带有工具调用的结果返回给大模型
 import json
 from openai import OpenAI
 import threading
