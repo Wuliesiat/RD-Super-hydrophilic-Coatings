@@ -1,4 +1,3 @@
-# 从SMILES式子获取相关问题和scheme
 from openai import OpenAI
 import json
 import re
