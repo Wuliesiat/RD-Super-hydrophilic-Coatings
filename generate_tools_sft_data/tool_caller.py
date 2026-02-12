@@ -1,4 +1,3 @@
-# 输入问题和scheme，获取工具调用有关的回答
 import json
 import os
 from openai import OpenAI
