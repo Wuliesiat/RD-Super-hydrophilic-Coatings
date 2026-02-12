@@ -9,8 +9,8 @@ from multiprocessing import Pool
 from functools import partial
 from collections import Counter
 
-API_KEY = "sk-oYh3Xrhg8oDY2gW02c966f31C84449Ad86F9Cd9dF6E64a8d"
-BASE_URL = "https://vip.apiyi.com/v1"
+API_KEY = ""
+BASE_URL = ""
 MODEL_GPT = "gpt-4o-mini"
 
 # 确保输出为标准json格式字符串
