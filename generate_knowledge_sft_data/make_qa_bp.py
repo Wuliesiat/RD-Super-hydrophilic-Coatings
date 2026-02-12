@@ -22,9 +22,9 @@ from make_qa_prompts_bp import FUNC_GROUPS_QUESTION_RPOMPT, FUNC_GROUPS_ANSWER_P
 
 
 # Constants
-OPENAI_BASE_URL = "https://vip.apiyi.com/v1"
+OPENAI_BASE_URL = ""
 # OPENAI_BASE_URL = "http://8.218.238.241:17935/v1"
-OPENAI_API_KEY = "sk-oYh3Xrhg8oDY2gW02c966f31C84449Ad86F9Cd9dF6E64a8d"
+OPENAI_API_KEY = ""
 # MODEL_GPT = "gpt-4o-mini"
 MODEL_GPT = "chatgpt-4o-latest"
 # MINI_MODEL_NAME = "gpt-4o-2024-08-06"
