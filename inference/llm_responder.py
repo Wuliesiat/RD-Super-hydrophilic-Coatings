@@ -48,7 +48,7 @@ def process_single_item(item, idx, client, prompt_template, progress_tracker):
             messages=[
                 {"role": "user", "content": filled_prompt}
             ],
-            temperature=0.8,
+            temperature=1,
         )
         
         # 获取模型输出
