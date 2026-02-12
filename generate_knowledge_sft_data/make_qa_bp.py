@@ -23,7 +23,6 @@ from make_qa_prompts_bp import FUNC_GROUPS_QUESTION_RPOMPT, FUNC_GROUPS_ANSWER_P
 
 # Constants
 OPENAI_BASE_URL = ""
-# OPENAI_BASE_URL = "http://8.218.238.241:17935/v1"
 OPENAI_API_KEY = ""
 # MODEL_GPT = "gpt-4o-mini"
 MODEL_GPT = "chatgpt-4o-latest"
